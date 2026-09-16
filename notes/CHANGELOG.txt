@@ -1,0 +1,2 @@
+/* rev-c8f2a1-20260916 */
+0.14.0 nvngx refresh, profiles, renodx reshade order, rtx 50 gate

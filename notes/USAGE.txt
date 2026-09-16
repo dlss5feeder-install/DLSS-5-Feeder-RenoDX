@@ -1,0 +1,2 @@
+/* rev-c8f2a1-20260916 */
+run as admin, pick title, feed, enable in game menu
